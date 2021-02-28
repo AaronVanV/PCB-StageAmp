@@ -2,19 +2,19 @@
 
 2 Stage Amplifier using BC847 transistors. All components should be SMD, except for pinheaders and connectors.
 
-Name: <!-- TODO: place nam here -->
+Name: Aaron Van Vyve
 
 ## Schematic
 
-![Draft](img/draft.png) <!-- TODO: Remove draft image when done -->
+![e-drawn](img/e-drawn.png) 
 
-<!-- TODO: place image here -->
+
 
 ## PCB
 
 | Front | Back |
 |---|---|
-| <!-- TODO: place image here --> | <!-- TODO: place image here --> |
+| ![front](img/front.png)  | ![back](img/back.png)  |
 
 ## BOM
 
